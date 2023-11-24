@@ -1,0 +1,11 @@
+Per poter eseguire correttamente il progetto K-MEANS svolgere i seguenti passi:
+
+1) Utilizzare gli strumenti MySQL per creare un database, un utente con password e una tabella. In allegato, nella cartella Script SQL, sono disponibili gli script sql    delle tabelle esempio e playtennis. (Fare un copia incolla di uno dei due script in MySQL Command Line)
+
+2) Aprire la cartella JAR+BAT
+
+3) Eseguire il file batch launch.bat per avviare il Server
+
+4) Eseguire il file jar eseguibile Client.jar per avviare il Client
+
+N.B. Nel caso in cui si decida di spostare il file Server.jar in un'altra cartella è necessario spostare anche il file launch.bat in quella stessa cartella affinchè il      Server possa essere avviato correttamente.
